@@ -15,5 +15,10 @@ public class MathOperationsTest {
         int sum = operations.sum(2, 3);
         Assert.assertThat(sum, is(5));
     }
+
+    @Test
+    public void testSubtract() throws Exception {
+
+    }
 }
 
